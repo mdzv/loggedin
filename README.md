@@ -11,4 +11,3 @@ A project I made to test out authenticationuser registration, login, credential 
 
 ## Contribution
 Contribution is always appreciated!
-....
